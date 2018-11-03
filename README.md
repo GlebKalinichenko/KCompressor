@@ -1,0 +1,3 @@
+# KCompressor
+
+Files compressor
